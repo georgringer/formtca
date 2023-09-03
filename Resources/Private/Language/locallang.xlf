@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:formtca/Resources/Private/Language/locallang.xlf" date="2023-09-02T17:14:23Z" product-name="formtca">
+		<header/>
+		<body>
+			<trans-unit id="tx_formtca_domain_model_form" resname="tx_formtca_domain_model_form">
+				<source>Form</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_form.name" resname="tx_formtca_domain_model_form.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_form.submit_label" resname="tx_formtca_domain_model_form.submit_label">
+				<source>Submit Label</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_form.finishers" resname="tx_formtca_domain_model_form.finishers">
+				<source>Finishers</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_form.steps" resname="tx_formtca_domain_model_form.steps">
+				<source>Steps</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_field" resname="tx_formtca_domain_model_field">
+				<source>Field</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_field.type" resname="tx_formtca_domain_model_field.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_field.label" resname="tx_formtca_domain_model_field.label">
+				<source>Label</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_field.description" resname="tx_formtca_domain_model_field.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_field.placeholder" resname="tx_formtca_domain_model_field.placeholder">
+				<source>Placeholder</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_field.required" resname="tx_formtca_domain_model_field.required">
+				<source>Required</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_field.validators" resname="tx_formtca_domain_model_field.validators">
+				<source>Validators</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_validator" resname="tx_formtca_domain_model_validator">
+				<source>Validator</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_validator.type" resname="tx_formtca_domain_model_validator.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_validator.custom_error_message" resname="tx_formtca_domain_model_validator.custom_error_message">
+				<source>Custom Error Message</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_validator.minimum" resname="tx_formtca_domain_model_validator.minimum">
+				<source>Minimum</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_validator.maximum" resname="tx_formtca_domain_model_validator.maximum">
+				<source>Maximum</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_finisher" resname="tx_formtca_domain_model_finisher">
+				<source>Finisher</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_finisher.type" resname="tx_formtca_domain_model_finisher.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_finisher.email_subject" resname="tx_formtca_domain_model_finisher.email_subject">
+				<source>Email Subject</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_finisher.redirect_page" resname="tx_formtca_domain_model_finisher.redirect_page">
+				<source>Redirect Page</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_step" resname="tx_formtca_domain_model_step">
+				<source>Step</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_step.step_name" resname="tx_formtca_domain_model_step.step_name">
+				<source>Step Name</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_step.previous_button_label" resname="tx_formtca_domain_model_step.previous_button_label">
+				<source>Previous Button Label</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_step.next_button_label" resname="tx_formtca_domain_model_step.next_button_label">
+				<source>Next Button Label</source>
+			</trans-unit>
+			<trans-unit id="tx_formtca_domain_model_step.fields" resname="tx_formtca_domain_model_step.fields">
+				<source>Fields</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

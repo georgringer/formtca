@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:formtca/Resources/Private/Language/locallang_csh_tx_formtca_domain_model_validator.xlf" date="2023-09-02T17:14:23Z" product-name="formtca">
+		<header/>
+		<body>
+			<trans-unit id="type.description" resname="type.description">
+				<source>type</source>
+			</trans-unit>
+			<trans-unit id="custom_error_message.description" resname="custom_error_message.description">
+				<source>customErrorMessage</source>
+			</trans-unit>
+			<trans-unit id="minimum.description" resname="minimum.description">
+				<source>minimum</source>
+			</trans-unit>
+			<trans-unit id="maximum.description" resname="maximum.description">
+				<source>maximum</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
